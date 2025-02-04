@@ -1,12 +1,13 @@
 #this program is for debit 
   #include<stdio.h>
-  main()
+
 {
   print "hello world"
 }
 <<<<<<< HEAD
 welcome to kolkata- dev2
-=======
+sharru
+rani 
+sas
 hello bengaluru -dev1
-
 
