@@ -1,7 +1,0 @@
-#this program is for debit 
-   #include <stdio.h>
-   main()
-{
-   print"hello world"
-}
-hello banglore -dev1
