@@ -1,6 +1,6 @@
 #this program is for debit 
   #include<stdio.h>
-  main()
+
 {
   print "hello world"
 }
